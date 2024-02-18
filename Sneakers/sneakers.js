@@ -26,7 +26,7 @@ $(function() {
 /*  IMG SLICK */
   $('.slick-area').slick({
     arrows: false,
-/*    variableWidth: true,*/
+    variableWidth: true,
     centerMode: true,
     centerPadding: '100px',
     slidesToShow: 3,

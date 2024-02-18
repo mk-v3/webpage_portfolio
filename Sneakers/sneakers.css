@@ -177,15 +177,16 @@ img {
 
 /*  PICK UP */
 #pickup {
-/*  width: 100%;*/
+  width: 100%;
   padding: 100px 0 50px 0;
 }
 
-/*#pickup .slick-area {
+#pickup .slick-area {
   font-size: 0;
-}*/
+}
 
 #pickup .slick-area img {
+  height: 50%;
   padding: 0 30px;
 }
 
